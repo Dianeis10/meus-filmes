@@ -13,6 +13,9 @@ export default function Home(){
             <Text>Meus Filmes</Text>
             <Text>Olá Dianeis, boa noite!</Text>
 
+           <TouchableOpacity>
+               <Text> Adiconar </Text>
+           </TouchableOpacity>
            
         </view>
 
